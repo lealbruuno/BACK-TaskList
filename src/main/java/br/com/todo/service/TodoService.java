@@ -1,4 +1,4 @@
-package br.com.todolist.service;
+package br.com.todo.service;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 import org.springframework.web.server.ResponseStatusException;
 
-import br.com.todolist.entity.TodoEntity;
-import br.com.todolist.repository.TodoRepository;
+import br.com.todo.entity.TodoEntity;
+import br.com.todo.repository.TodoRepository;
 import jakarta.validation.Valid;
 
 @Service

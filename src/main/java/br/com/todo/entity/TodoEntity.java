@@ -1,4 +1,4 @@
-package br.com.todolist.entity;
+package br.com.todo.entity;
 
 import java.time.LocalDateTime;
 
