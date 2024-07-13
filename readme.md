@@ -16,7 +16,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 - Clonar repositório git
 - Construir o projeto: `$ ./mvnw clean package`
-- Executar a aplicação: `$ java -jar target/todo-0.0.1-SNAPSHOT.jar` ou usar os recursos da IDE para execução.
+- Executar a aplicação com os recursos da IDE para execução.
 
 A API poderá ser acessada em [localhost:8080](http://localhost:8080).
 O Swagger poderá ser visualizado em [localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
