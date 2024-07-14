@@ -2,6 +2,8 @@
 
 Task List é uma API para gerenciar tarefas (CRUD) em Java para praticar os príncípios da programação backend e evolução dos conceitos de POO.
 
+Projeto Frontend [Task List](https://github.com/lealbruuno/FRONT-TaskList)
+
 ## 🛠 Tecnologias
 
 As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
